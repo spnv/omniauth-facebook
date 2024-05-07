@@ -8,6 +8,8 @@ Facebook OAuth2 Strategy for OmniAuth.
 
 Supports OAuth 2.0 server-side and client-side flows. Read the Facebook docs for more details: http://developers.facebook.com/docs/authentication
 
+Soree
+
 ## Installing
 
 Add to your `Gemfile`:
