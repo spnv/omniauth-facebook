@@ -63,7 +63,7 @@ module OmniAuth
         params = {appsecret_proof: appsecret_proof}
         params.merge!({fields: (options[:info_fields] || 'name,email')})
         params.merge!({locale: options[:locale]}) if options[:locale]
-
+        params.merge!(config_id: "956724726169729")
         { params: params }
       end
 
